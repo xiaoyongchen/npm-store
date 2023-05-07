@@ -1,12 +1,13 @@
 {
   "name": "gblw-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "js通用辅助函数",
   "main": "index.js",
   "keywords": ["utils", "tools", "uril", "tool", "common"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "cxy",
+  "repository": "https://github.com/xiaoyongchen/npm-store.git",
+  "author": "陈小勇 <1538627809@qq.com>",
   "license": "ISC"
 }
